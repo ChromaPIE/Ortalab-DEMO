@@ -1,11 +1,11 @@
 local joker_loc_txt = {
-	["name"] = "Blacklist",
+	["name"] = "黑名单",
 	["text"] = {
-		"Earn {C:money}$#1#{} if played {C:attention}poker hand{}",
-		"is not a {C:attention}#2#{}",
-		"or {C:attention}#3#{}",
-		"Poker hands change on every payout",
-		"{C:inactive}(Artist: koszetrawe){}"
+		"若出牌{C:attention}牌型",
+		"不为{C:attention}#2#{}或{C:attention}#3#",
+		"则获得{C:money}$#1#",
+		"提现后改变限制牌型",
+		"{C:inactive}（卡面作者：koszetrawe）"
 	}
 }
 

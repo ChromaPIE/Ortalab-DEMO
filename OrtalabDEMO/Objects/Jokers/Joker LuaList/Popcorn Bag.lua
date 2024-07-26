@@ -1,10 +1,10 @@
 local joker_loc_txt = {
-	["name"] = "Popcorn Bag",
+	["name"] = "爆米花桶",
 	["text"] = {
-		"{C:mult}+#1#{} Mult.",
-		"{C:mult}+#2#{} Mult per round played",
-		"Explodes when greater than {C:mult}+20{}",
-		"{C:inactive}(Artist: GoldenDiscoPig){}"
+		"{C:mult}+#1#{}倍率",
+		"每完成一回合{C:mult}+#2#{}倍率",
+		"超过{C:mult}+#3#{}倍率时爆炸",
+		"{C:inactive}（卡面作者：GoldenDiscoPig）"
 	}
 }
 

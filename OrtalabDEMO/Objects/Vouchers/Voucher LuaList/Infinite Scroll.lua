@@ -1,10 +1,10 @@
 local voucher_loc_txt = {
-	["name"] = "Infinite Scroll",
+	["name"] = "琳琅满目",
 	["text"] = {
-		"+2 free {C:green}rerolls{}",
-		"per shop",
-		"{C:green}Reroll{} price {C:red}+2${}",
-		"{C:inactive}(Artist: Flare){}"
+	    "每次商店可额外",
+	    "免费{C:green}重掷{}2次",
+		"{C:green}重掷{}花费{C:red}+$2",
+		"{C:inactive}（卡面作者：Flare）"
 	}
 }
 

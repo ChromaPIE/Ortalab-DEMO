@@ -1,11 +1,11 @@
 local joker_loc_txt = {
-	["name"] = "Virus",
+	["name"] = "病毒",
 	["text"] = {
-		"If {C:attention}first hand{} of round has only",
-		"{C:attention}1{} card, destroy it and",
-		"convert {C:attention}#1# random cards",
-		"in hand to played card",
-		"{C:inactive}(Artist: GoldenDiscoPig){}"
+		"若当前回合的{C:attention}首次出牌",
+		"仅有{C:attention}1{}张牌",
+		"则摧毁之并将手牌中的",
+		"{C:attention}随机#1#张牌{}变为被摧毁牌",
+		"{C:inactive}（卡面作者：GoldenDiscoPig）"
 	}
 }
 

@@ -1,9 +1,10 @@
 local voucher_loc_txt = {
-	["name"] = "Shady Trading",
+	["name"] = "可疑交易",
 	["text"] = {
-		"{C:spectral}Spectral{} cards can",
-		"appear in the shop",
-		"{C:inactive}(Artist: Flare){}"
+		"商店中有",
+		"{C:spectral}幻灵牌",
+		"可供选购",
+		"{C:inactive}（卡面作者：Flare）"
 	}
 }
 

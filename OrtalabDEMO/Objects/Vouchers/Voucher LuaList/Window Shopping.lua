@@ -1,10 +1,10 @@
 local voucher_loc_txt = {
-	["name"] = "Window Shopping",
+	["name"] = "走马观花",
 	["text"] = {
-		"+1 free {C:green}reroll{}",
-		"per shop", 
-		"{C:green}Reroll{} price {C:red}+1${}",
-		"{C:inactive}(Artist: Flare){}"
+		"每次商店可额外",
+	    "免费{C:green}重掷{}1次",
+		"{C:green}重掷{}花费{C:red}+$1",
+		"{C:inactive}（卡面作者：Flare）"
 	}
 }
 

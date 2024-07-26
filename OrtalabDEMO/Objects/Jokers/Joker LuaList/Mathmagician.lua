@@ -1,11 +1,10 @@
 local joker_loc_txt = {
-	["name"] = "Mathmagician",
+	["name"] = "魔数师",
 	["text"] = {
-		"Creates a random {C:tarot}Tarot{}",
-		"card if discarded hand",
-		"contains 2 {C:attention}odd cards",
-		"and 2 {C:attention}even cards",
-		"{C:inactive}(Artist: Flare){}"
+		"若同时弃掉",
+		"{C:attention}奇数{}和{C:attention}偶数{}牌各2张",
+		"则随机生成一张{C:tarot}塔罗牌",
+		"{C:inactive}（卡面作者：Flare）"
 	}
 }
 

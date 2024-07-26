@@ -1,9 +1,9 @@
 local voucher_loc_txt = {
-	["name"] = "Illegal Imports",
+	["name"] = "非法进口",
 	["text"] = {
-		"{C:spectral}Spectral{} cards appear",
-		"{C:attention}2X{} more frequently in the shop",
-		"{C:inactive}(Artist: Flare){}"
+		"商店内{C:spectral}幻灵牌{}的",
+		"出现频率{C:attention}X2",
+		"{C:inactive}（卡面作者：Flare）"
 	}
 }
 local illegal_imports = SMODS.Voucher({

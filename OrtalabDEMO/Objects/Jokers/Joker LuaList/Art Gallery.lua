@@ -1,11 +1,11 @@
 local joker_loc_txt = {
-	["name"] = "Art Gallery",
+	["name"] = "画廊",
 	["text"] = {
-		"{C:chips}+#1#{} Chips for",
-		"each {C:attention}Joker{} and",
-		"{C:tarot}Consumable{} card",
-		"{C:inactive}(Currently {C:chips}+#2#{C:inactive}){}",
-		"{C:inactive}(Artist: Flare){}"
+		"每拥有一张",
+		"{C:attention}小丑牌{}或{C:tarot}消耗牌",
+		"{C:chips}+#1#{}筹码",
+		"{C:inactive}（当前为{C:chips}+#2#{C:inactive}筹码）",
+		"{C:inactive}（卡面作者：Flare）"
 	}
 }
 

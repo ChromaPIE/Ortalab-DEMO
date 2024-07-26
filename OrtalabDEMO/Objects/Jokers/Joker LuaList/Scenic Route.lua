@@ -1,10 +1,9 @@
 local joker_loc_txt = {
-	["name"] = "Scenic Route",
+	["name"] = "一路风光",
 	["text"] = {
-		"{C:attention}Straights{} can be",
-		"made with {C:attention}pairs{}",
-		"{C:inactive}(ex: {C:attention}7 7 6 6 5{C:inactive})",
-		"{C:inactive}(Artist: KoszeTrawe){}"
+		"{C:attention}顺子{}可由{C:attention}对子{}组成",
+		"{C:inactive}（例如：{C:attention}7 7 6 6 5{C:inactive}）",
+		"{C:inactive}（卡面作者：KoszeTrawe）"
 	}
 }
 
