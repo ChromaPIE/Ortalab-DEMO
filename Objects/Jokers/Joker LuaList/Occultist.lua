@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"All {C:spectral}Spectral{} card and {C:spectral}Spectral Packs{}",
 		"in the shop are free",
-		"{C:inactive}(Artist: Flare, Salad){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare, Salad){}"
 	}
 }
 

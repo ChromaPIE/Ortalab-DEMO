@@ -5,7 +5,7 @@ local joker_loc_txt = {
 		"joker is scored are {C:attention}odd{}",
 		"{X:mult,C:white}X#2#{} Mult if total chips when this",
 		"joker is scored are {C:attention}even{}",
-		"{C:inactive}(Artist: ItsFlowwey){}"
+		"{C:inactive,s:0.8}（卡面作者：ItsFlowwey){}"
 	}
 }
 

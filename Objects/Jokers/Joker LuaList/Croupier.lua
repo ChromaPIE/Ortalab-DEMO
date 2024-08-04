@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"Booster packs contain",
 		"{C:attention}1{} additional card",
-		"{C:inactive}(Artist: ){}"
+		"{C:inactive,s:0.8}（卡面作者：){}"
 	}
 }
 

@@ -4,8 +4,7 @@ local joker_loc_txt = {
 		"3X blind {C:money}reward money{}",
 		"Applies random {C:red}Boss Blind{}",
 		"effect when blind is selected",
-		"{C:inactive}(Currently: {C:attention}#1#{})",
-		"{C:inactive}(Artist: ){}"
+		"{C:inactive}(Currently: {C:attention}#1#{}）",
 	}
 }
 

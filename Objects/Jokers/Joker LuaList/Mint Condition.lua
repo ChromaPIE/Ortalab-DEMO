@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"{C:attention}Jokers{} that earn money on {C:money}payout{}",
 		"each give {X:mult,C:white}X#1#{} Mult",
-		"{C:inactive}(Artist: ){}"
+		"{C:inactive,s:0.8}（卡面作者：){}"
 	}
 }
 

@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"Earn {C:money}#1#${} at end of round",
 		"Gains {C:money}#2#${} per discarded {C:attention,E:1}Gold{} Card",
 		"Discarded {C:attention,E:1}Gold{} Cards are destroyed",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

@@ -1,10 +1,10 @@
 local joker_loc_txt = {
-	["name"] = "The Spectrum",
+	["name"] = "光谱",
 	["text"] = {
-		"{X:mult,C:white}X#1#{} Mult if played",
-		"hand does not",
-		"contain a {C:attention}#2#",
-		"{C:inactive}(Artist: Coronacht, Flare){}"
+		"若打出的牌中",
+		"不包含{C:attention}#2#",
+		"{X:mult,C:white}X#1#{}倍率",
+		"{C:inactive,s:0.8}（卡面作者：Coronacht、Flare）"
 	}
 }
 

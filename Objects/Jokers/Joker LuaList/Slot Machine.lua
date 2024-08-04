@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"If played hand contains three {C:attention}Lucky 7s{}",
 		"create a random {C:spectral}Spectral{} card",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

@@ -1,11 +1,10 @@
 local joker_loc_txt = {
-	["name"] = "Fine Wine",
+	["name"] = "葡萄美酒",
 	["text"] = {
-		"{C:red}+#1#{} discards, gains {C:red}+1{} discard",
-		"when blind is selected",
-		"{C:green}#2# in #3#{} chance this joker is",
-		"destroyed at end of round",
-		"{C:inactive}(Artist: Flare){}"
+		"弃牌次数{C:red}+#1#",
+		"选择{C:attention}盲注{}时弃牌次数额外{C:red}+1",
+		"回合结束时有{C:green}#2#/#3#{}的几率被摧毁",
+		"{C:inactive,s:0.8}（卡面作者：Flare)"
 	}
 }
 

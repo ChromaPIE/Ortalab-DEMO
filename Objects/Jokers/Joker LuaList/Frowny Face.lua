@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"Played numbered cards",
 		"give {C:mult}+#1#{} Mult when scored",
-		"{C:inactive}(Artist: GoldenDiscoPig){}"
+		"{C:inactive,s:0.8}（卡面作者：GoldenDiscoPig){}"
 	}
 }
 

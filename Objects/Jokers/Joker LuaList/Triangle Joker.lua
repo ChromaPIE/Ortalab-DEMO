@@ -3,8 +3,8 @@ local joker_loc_txt = {
 	["text"] = {
 		"This Joker gains {C:mult}+#1#{} Mult if played hand",
 		"has exactly {C:attention}3{} cards",
-		"{C:inactive}(Currently {C:mult}+#2#{C:inactive} Mult)",
-		"{C:inactive}(Artist: im_salad){}"
+		"{C:inactive}(Currently {C:mult}+#2#{C:inactive} Mult）",
+		"{C:inactive,s:0.8}（卡面作者：im_salad){}"
 	}
 }
 

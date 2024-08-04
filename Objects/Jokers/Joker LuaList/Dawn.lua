@@ -1,10 +1,9 @@
 local joker_loc_txt = {
-	["name"] = "Dawn",
+	["name"] = "黎明",
 	["text"] = {
-		"Retrigger all played",
-		"cards in {C:attention}first",
-		"{C:attention}hand{} of round",
-		"{C:inactive}(Artist: Flare){}"
+		"每回合{C:attention}第一手{}出牌",
+		"中所有的牌均会重新触发",
+		"{C:inactive,s:0.8}（卡面作者：Flare）"
 	}
 }
 

@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"{C:red}-#1#{} Chips",
 		"All cards in the shop",
 		"are {C:money}#2#%{} off",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"Create a random {C:planet}Planet",
 		"card if a {C:attention}10",
 		"is held in hand",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

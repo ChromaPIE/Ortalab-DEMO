@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"Rerolls cost",
 		"{C:money}$1{} less",
-		"{C:inactive}(Artist: AlexZGreat)"
+		"{C:inactive,s:0.8}（卡面作者：AlexZGreat）"
 	}
 }
 

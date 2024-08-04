@@ -3,8 +3,8 @@ local joker_loc_txt = {
 	["text"] = {
 		"Copies ability of a random joker",
 		"when blind is selected",
-		"{C:inactive}(Copied Joker: {C:attention}#1#{C:inactive})",
-		"{C:inactive}(Artist: ){}"
+		"{C:inactive}(Copied Joker: {C:attention}#1#{C:inactive}）",
+		"{C:inactive,s:0.8}（卡面作者：){}"
 	}
 }
 

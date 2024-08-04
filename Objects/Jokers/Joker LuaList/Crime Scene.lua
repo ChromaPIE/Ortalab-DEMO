@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"Jokers that have been",
 		"{C:attention}sold{} or {C:attention}destroyed{}",
 		"cannot appear in the shop",
-		"{C:inactive}(Artist: Grassy){}"
+		"{C:inactive,s:0.8}（卡面作者：Grassy){}"
 	}
 }
 

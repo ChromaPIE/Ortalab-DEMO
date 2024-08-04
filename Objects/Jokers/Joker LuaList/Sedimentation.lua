@@ -4,8 +4,8 @@ local joker_loc_txt = {
 		"{C:red}+#1#{} Mult for each",
 		"card above {C:attention}#3#{}",
 		"in your full deck",
-		"{C:inactive}(Currently {C:red}+#2#{C:inactive} Mult)",
-		"{C:inactive}(Artist: Gappie){}"
+		"{C:inactive}(Currently {C:red}+#2#{C:inactive} Mult）",
+		"{C:inactive,s:0.8}（卡面作者：Gappie){}"
 	}
 }
 

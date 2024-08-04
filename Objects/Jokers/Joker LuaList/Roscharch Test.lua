@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"For each played 2 or 5, either give",
 		"{C:chips}+#1#{} Chips or {C:mult}+#2#{} when scored",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

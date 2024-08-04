@@ -3,8 +3,8 @@ local joker_loc_txt = {
 	["text"] = {
 		"{X:mult,C:white}X#1#{} Mult per",
 		"{C:spectral}Spectral{} card used",
-		"{C:inactive}(Currently {X:mult,C:white}X#2#{C:inactive} Mult)",
-		"{C:inactive}(Artist: KoszeTrawe){}"
+		"{C:inactive}(Currently {X:mult,C:white}X#2#{C:inactive} Mult）",
+		"{C:inactive,s:0.8}（卡面作者：KoszeTrawe){}"
 	}
 }
 

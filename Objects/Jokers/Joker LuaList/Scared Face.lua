@@ -1,9 +1,9 @@
 local joker_loc_txt = {
-	["name"] = "Scared Face",
+	["name"] = "惊慌面孔",
 	["text"] = {
-		"Played numbered cards",
-		"give {C:chips}+#1#{} Chips when scored",
-		"{C:inactive}(Artist: GoldenDiscoPig){}"
+		"打出的数字牌",
+		"在计分时给予{C:chips}+#1#{}筹码",
+		"{C:inactive}（卡面作者：GoldenDiscoPig）"
 	}
 }
 

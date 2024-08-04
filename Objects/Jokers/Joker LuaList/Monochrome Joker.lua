@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"All cards are also considered",
 		"to be {V:1}#1#{} suit, changes",
 		"when blind is selected",
-		"{C:inactive}(Artist: Salad){}"
+		"{C:inactive,s:0.8}（卡面作者：Salad){}"
 	}
 }
 

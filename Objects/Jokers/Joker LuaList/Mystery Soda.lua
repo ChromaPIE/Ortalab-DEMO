@@ -1,9 +1,9 @@
 local joker_loc_txt = {
-	["name"] = "Mystery Soda",
+	["name"] = "神秘苏打",
 	["text"] = {
-		"Sell this card to create",
-		"two free {C:attention}tags",
-		"{C:inactive}(Artist: im_salad){}"
+		"售出本牌即可",
+		"免费生成两个{C:attention}标签",
+		"{C:inactive,s:0.8}（卡面作者：im_salad）"
 	}
 }
 

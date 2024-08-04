@@ -1,9 +1,9 @@
 local joker_loc_txt = {
-	["name"] = "Woo! All 1s",
+	["name"] = "一无所有",
 	["text"] = {
-		"Halves all {C:attention}listed{} {C:green,E:1,S:1.1}probabilities{}",
-		"{C:inactive}(ex: {C:green}2 in 4{C:inactive} -> {C:green}1 in 4{C:inactive})",
-		"{C:inactive}(Artist: Crimson Heart){}"
+		"所有{C:attention}列出{}的{C:green,E:1,S:1.1}几率{}减半",
+		"{C:inactive}（例如：{C:green}2/4{C:inactive} -> {C:green}1/4{C:inactive}）",
+		"{C:inactive,s:0.8}（卡面作者：Crimson Heart）"
 	}
 }
 

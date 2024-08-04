@@ -3,8 +3,8 @@ local joker_loc_txt = {
 	["text"] = {
 		"Earn {C:money}$#1#{} at end of round",
 		"per each unique {C:spectral}Spectral{} card {C:attention}sold",
-		"{C:inactive}(Currently {C:money}$#2#{C:inactive})",
-		"{C:inactive}(Artist: ItsFlowwey){}"
+		"{C:inactive}(Currently {C:money}$#2#{C:inactive}）",
+		"{C:inactive,s:0.8}（卡面作者：ItsFlowwey){}"
 	}
 }
 

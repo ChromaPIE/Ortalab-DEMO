@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"{C:money}+1${} when you",
 		"use a {C:red}discard{}",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

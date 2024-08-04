@@ -3,7 +3,7 @@ local joker_loc_txt = {
 	["text"] = {
 		"{X:mult,C:white}X#1#{} Mult if played",
 		"hand is a Secret Hand",
-		"{C:inactive}(Artist: ItsFlowwey){}"
+		"{C:inactive,s:0.8}（卡面作者：ItsFlowwey){}"
 	}
 }
 

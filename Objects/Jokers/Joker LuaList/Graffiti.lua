@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"{C:mult}+#1#{} Mult",
 		"per hand remaining",
 		"{C:inactive}(Currently {C:mult}+#2#{} Mult){}",
-		"{C:inactive}(Artist: Flare){}"
+		"{C:inactive,s:0.8}（卡面作者：Flare){}"
 	}
 }
 

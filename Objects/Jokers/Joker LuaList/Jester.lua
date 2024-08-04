@@ -1,8 +1,8 @@
 local joker_loc_txt = {
-	["name"] = "Jester",
+	["name"] = "逗比",
 	["text"] = {
-		"{C:chips}+#1#{} Chips",
-		"{C:inactive}(Artist: Crimson Heart){}"
+		"{C:chips}+#1#{}筹码",
+		"{C:inactive,s:0.8}（卡面作者：Crimson Heart）"
 	}
 }
 

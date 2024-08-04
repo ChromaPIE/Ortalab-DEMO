@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"Earn {C:money}$#1#{} at end of round.",
 		"Loses {C:red}-$#2#{} when",
 		"{C:attention}Boss Blind{} is defeated",
-		"{C:inactive}(Artist: Salad){}"
+		"{C:inactive,s:0.8}（卡面作者：Salad){}"
 	}
 }
 local fuel_tank = SMODS.Joker({

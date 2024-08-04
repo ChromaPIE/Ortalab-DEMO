@@ -4,7 +4,7 @@ local joker_loc_txt = {
 		"Upgrades the last",
 		"played {C:attention}poker hand{}",
 		"scored this blind",
-		"{C:inactive}(Artist: Gappie)"
+		"{C:inactive,s:0.8}（卡面作者：Gappie）"
 	}
 }
 

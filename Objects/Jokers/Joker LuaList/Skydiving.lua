@@ -1,12 +1,10 @@
 local joker_loc_txt = {
-	["name"] = "Skydiving",
+	["name"] = "高空跳伞",
 	["text"] = {
-		"Sets played {C:attention}poker hand",
-		"level to 1",
-		"Gain {X:mult,C:white}#1#X{} Mult",
-		"per level {C:attention}removed",
-		"{C:inactive}(Currently {X:mult,C:white}X#2#{C:inactive} Mult)",
-		"{C:inactive}(Artist: AlexZGreat)"
+		"将所出{C:attention}牌型{}的等级降为1",
+		"每{C:attention}降低{}一级，本牌获得{X:mult,C:white}X#1#{}倍率",
+		"{C:inactive}（当前为{X:mult,C:white}X#2#{C:inactive}倍率）",
+		"{C:inactive,s:0.8}（卡面作者：AlexZGreat）"
 	}
 }
 
